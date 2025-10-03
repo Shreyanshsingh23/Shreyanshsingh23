@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh Gautam.</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">
+  Building 
+  <a href="https://maximem.ai" target="_blank">Maximem AI</a>
+  <br>
+  <img src="Maximem Logo.png" alt="Maximem AI Logo" height="80"/>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
