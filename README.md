@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh Gautam.</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyanshsingh23&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 <h3 align="center">
   Building 
   <a href="https://maximem.ai" target="_blank">Maximem AI</a>
