@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Maximem+AI;Full-Stack+Developer;AI+%26+Context+Space+Enthusiast;Building+the+Future+of+AI" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shreyanshsingh23&color=blueviolet&style=for-the-badge)](https://github.com/shreyanshsingh23)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shreyanshsingh23&color=blueviolet&style=for-the-badge)](https://github.com/Shreyanshsingh23)
 
 </div>
 
@@ -38,20 +38,20 @@
 
 <div align="center">
 
-<a href="https://github.com/shreyanshsingh23/http-server-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyanshsingh23&repo=http-server-go&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/Shreyanshsingh23/http-server-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=http-server-go&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
-<a href="https://github.com/shreyanshsingh23/AIR-CANVAS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyanshsingh23&repo=AIR-CANVAS&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/Shreyanshsingh23/AIR-CANVAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=AIR-CANVAS&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
-<a href="https://github.com/shreyanshsingh23/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyanshsingh23&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/Shreyanshsingh23/portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
-<a href="https://github.com/shreyanshsingh23/CF-Rating-Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shreyanshsingh23&repo=CF-Rating-Predictor&theme=tokyonight&hide_border=true&border_radius=10" />
+<a href="https://github.com/Shreyanshsingh23/CF-Rating-Predictor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=CF-Rating-Predictor&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 
 </div>
@@ -134,20 +134,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreyanshsingh23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshsingh23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshsingh23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshsingh23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyanshsingh23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshsingh23&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyanshsingh23&theme=tokyonight" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreyanshsingh23&theme=tokyonight" alt="Profile Summary" />
 
 </div>
 
@@ -157,7 +157,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyanshsingh23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shreyanshsingh23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshsingh23&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshsingh23&theme=tokyo-night&hide_border=true&border_radius=10" alt="Contribution Graph" />
 
 </div>
 
