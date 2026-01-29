@@ -39,19 +39,19 @@
 <div align="center">
 
 <a href="https://github.com/Shreyanshsingh23/http-server-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=http-server-go&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=http-server-go&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Shreyanshsingh23/AIR-CANVAS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=AIR-CANVAS&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=AIR-CANVAS&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Shreyanshsingh23/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Shreyanshsingh23/CF-Rating-Predictor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=CF-Rating-Predictor&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyanshsingh23&repo=CF-Rating-Predictor&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 </a>
 
 </div>
@@ -134,8 +134,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshsingh23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshsingh23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshsingh23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshsingh23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 
 </div>
 
@@ -157,7 +157,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shreyanshsingh23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=Shreyanshsingh23&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 
 </div>
 
